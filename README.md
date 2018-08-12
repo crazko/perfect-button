@@ -2,4 +2,4 @@ Unused ending of my [presentation](https://docs.google.com/presentation/d/1jXR04
 
 [![](image.png)](https://crazko.github.io/perfect-button/)
 
-Cursors are changed to be big to make them visible also from distant seats. Interesting thing is that custom cursor in browsers has its [limitations](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_User_Interface/Using_URL_values_for_the_cursor_property/#Limitations) and is prevented to be really big.
+Cursors are changed to be big to make them visible also from distant seats. Interesting thing is that custom cursor in browsers has its [limitations](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_User_Interface/Using_URL_values_for_the_cursor_property/#Limitations) and is prevented to be _really_ big.
